@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewCodesPython
-- 👀 I’m interested in software development, machine learning, AI, data science, creativity, and problem solving. 
+- 👀 I’m a highly creative developer/ artist interested in web and software development, machine learning, AI, data science, as well as the creation of art and music. (Former full-time Artist) 
 - 🌱 I’m currently learning to build AI powered applications, machine learning models, and full stack software develpment. 
 - 💞️ I’m looking to collaborate on software development, AI powered apps, innovative ideas, and ML models. 
 - 📫 boundlesscreations923@gmail.com @AndrewCodesPy on X, and @andrew_escudero_ on Instagram.
